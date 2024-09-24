@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: 'Arimo', sans-serif;
+}
+
+#hello-world {
+  font-size: 48px;
+  color: #333;
+  font-weight: 700;
+}
