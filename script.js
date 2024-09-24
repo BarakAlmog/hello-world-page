@@ -1,4 +1,4 @@
-const text = 'Hello World'
+const text = 'Hello World!'
 const helloWorld = document.getElementById('hello-world')
 let index = 0
 
